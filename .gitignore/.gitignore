@@ -1,0 +1,9 @@
+# Detta är bara ett exempel. Du väljer själv vilka filer du vill ignorera
+
+# Ignorera följande kataloger
+node_modules/
+dokument/
+
+# Ignorera följande filer
+inloggning_till_server.txt
+privat_bild.jpg
